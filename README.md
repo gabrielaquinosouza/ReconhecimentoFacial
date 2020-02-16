@@ -9,8 +9,9 @@ instale a biblioteca Dlib
 Baixe os arquivos:
 shape_predictor_68_face_landmarks.dat - 
 dlib_face_recognition_resnet_model_v1.dat
+*Obs:  Arquivos Disponíveis junto a documentação da biblioteca
 
-3º Passo
+3º Passo - 
 No arquivo de Treinamento Mude o nome da pasta ou caminho onde estão as imagens de treinamento na linha 17,
 Sempre colocar o nome da imagem com o nome da pessoa dona da face da imagem, caso na imagem haver mais de uma pessoa a imagem sera movida para pasta de teste
 
