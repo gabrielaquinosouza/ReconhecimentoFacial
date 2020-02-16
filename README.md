@@ -7,7 +7,7 @@ instale a biblioteca Dlib
 
 2º Passo  - 
 Baixe os arquivos:
-shape_predictor_68_face_landmarks.dat
+shape_predictor_68_face_landmarks.dat - 
 dlib_face_recognition_resnet_model_v1.dat
 
 3º Passo
